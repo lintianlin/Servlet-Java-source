@@ -4,4 +4,4 @@ servlet Java源码带中文注释，中文注释是根据《Servlet3.1规范》�
 ##
 #ScreenShot
 
-<div align=center><img width="216" height="384" src="https://github.com/lintianlin/Servlet-Java-source/blob/master/pic01.png"/></div>
+<div align=center><img width="500" height="800" src="https://github.com/lintianlin/Servlet-Java-source/blob/master/pic01.png"/></div>
